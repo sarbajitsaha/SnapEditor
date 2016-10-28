@@ -1,0 +1,2 @@
+# SnapEditor
+Android image editor
